@@ -99,7 +99,7 @@ Code written in Move.
 
 ## Community
 - [Move Language Discord](https://discord.gg/cPUmhe24Mz)
-- [Move @ Aptos by Aptos-labs Discord]()
+- [Move @ Aptos by Aptos-labs Discord](https://discord.gg/aptosnetwork)
 
 ## IDEs
 - [Move VS Code plugin](https://marketplace.visualstudio.com/items?itemName=move.move-analyzer) - Maintained by the Move core team ([source code](https://github.com/move-language/move/tree/main/language/move-analyzer)).
